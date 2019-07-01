@@ -1,0 +1,2 @@
+Observe the result of running this SQL command to show the name, continent and population of all countries.																	ANS:	SELECT name, continent, population FROM world
+SELECT name FROM world WHERE population = 64105700
